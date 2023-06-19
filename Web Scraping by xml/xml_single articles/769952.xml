@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:jsp="jsp" xmlns:fmt="http://java.sun.com/jstl/fmt" xmlns:dctm="http://www.documentum.com">
+    <front>
+        <journal-meta>
+            <journal-id journal-id-type="publication">0901c7918047d0e2</journal-id>
+            <journal-id journal-id-type="publisher"/>
+            <journal-title>Orphan Drug Approvals</journal-title>
+            <abbrev-journal-title abbrev-type="publication"/>
+            <issn/>
+            <publisher>
+                <publisher-name>
+                    <p>WebMD, LLC</p>
+                </publisher-name>
+            </publisher>
+            <notes notes-type="support-page">
+                <p>index</p>
+            </notes>
+        </journal-meta>
+        <article-meta>
+            <article-id>0901c79180555528</article-id>
+            <article-categories>
+                <subj-group>
+                    <subject>News Alert</subject>
+                </subj-group>
+                <series-title></series-title>
+            </article-categories>
+            <title-group>
+                <article-above-title/>
+                <article-title>FDA Grants Orphan Drug Status to Gevokizumab</article-title>
+                <subtitle></subtitle>
+                <alt-title>The FDA has granted orphan drug designation to gevokizumab for the treatment of noninfectious intermediate uveitis, posterior uveitis, or panuveitis, or chronic noninfectious anterior uveitis.</alt-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="Journalist">
+                    <name>
+                        <surname>Troy Brown</surname>
+                    </name>
+                    <role>Journalist</role>
+                    <bio>
+                        <p>Troy Brown is a freelance writer for Medscape.</p>
+                    </bio>
+                    <author-comment>
+                        <title>Disclosure</title>
+                        <p>Troy Brown has disclosed no relevant financial relationships.</p>
+                    </author-comment>
+                    <author-comment>
+                        <title>Title</title>
+                        <p/>
+                    </author-comment>
+                </contrib>
+            </contrib-group>
+            <pub-date>
+                <day>29</day>
+                <month>08</month>
+                <year>2012</year>
+            </pub-date>
+            <volume></volume>
+            <issue></issue>
+            <fpage></fpage>
+            <lpage/>
+            <copyright-year/>
+            <copyright-statement/>
+            <kwd-group>
+                <kwd>choroiditis,cyclitis,intermediate uveitis,orphan drugs,pars planitis,posterior uveitis</kwd>
+            </kwd-group>
+            <history>
+                <date date-type="posting">
+                    <day>29</day>
+                    <month>08</month>
+                    <year>2012</year>
+                </date>
+            </history>
+        </article-meta>
+    </front>
+    <body>
+        <sec sec-type="page">
+            <title/>
+            <sec sec-type="Default">
+                <title/>
+                <sec sec-type="section">
+                    <title/>
+                    <p>August 29, 2012 — The US Food and Drug Administration (FDA) has granted orphan drug status to gevokizumab (<italic>Xoma 052</italic>, Xoma Corp), a monoclonal antibody that binds strongly to interleukin 1β (IL-1β), for the treatment of noninfectious intermediate uveitis, posterior uveitis, or panuveitis, or chronic noninfectious anterior uveitis.</p>
+<p>The Orphan Drug Act of 1983 was passed to encourage companies to develop treatments for rare diseases (diseases that affect fewer than 200,000 people in the United States). Because the market is so small, such treatments can be unprofitable to develop. Companies that develop orphan drugs receive a 50% tax credit for the cost of conducting human clinical trials, 7-year marketing exclusivity, and other incentives.</p>
+<p>Behçet's disease is a rare multisystem disease that causes blood vessel inflammation throughout the body. Common symptoms are mouth sores, genital sores, and a type of panuveitis known as Behçet's uveitis, an inflammation of the uvea, retina, and vitreous humor that can lead to retinal detachment, vitreous hemorrhage, glaucoma, and blindness.</p>
+<p>"A genetic association has been shown between Behçet's disease and the IL-1 gene cluster, and IL-1β has been implicated as a mediator in Behçet's disease pathogenesis," Christine Kay, MD, the director of Retinal Clinical Research and the director of the Electrophysiology Service in the Vitreoretinal Division of the Department of Ophthalmology at the University of Florida in Gainesville, told <italic>Medscape Medical News</italic>. Dr. Kay is a clinical correspondent for the American Academy of Ophthalmology.</p>
+<p>"Gevokizumab regulates the activation of IL-1 receptors and can be intravenously or subcutaneously administered," Dr. Kay added.</p>
+<p>Patients with Behçet's uveitis have few treatment options. "There are currently only 2 drugs FDA-approved for the treatment of chronic noninfectious intermediate, posterior, and panuveitis (<italic>Retisert</italic> [Bausch &amp; Lomb] and <italic>Ozurdex</italic> [Allergan]), and both are extended-release corticosteroid ocular implants," Dr. Kay said.</p>
+<p>Results of a proof-of-concept phase 2 trial of intravenous gevokizumab in 7 patients with Behçet's uveitis were published in the April issue of the <italic>Annals of Rheumatic Diseases</italic>. In that trial patients were given a single infusion of gevokizumab (0.3 mg/kg), and all patients experienced complete reduction of intraocular inflammation in between 4 and 21 days (median, 14 days). There were no treatment-related adverse events.</p>
+<p>"In clinical trials, so far, gevokizumab has been studied in nearly 500 patients. The studies have shown that gevokizumab is well-tolerated, and no drug-related adverse events have been reported," Fred Kurland, chief financial officer of Xoma, said in an email interview with <italic>Medscape Medical News</italic>.</p>
+<p>Although it appears that gevokizumab "may offer a viable treatment option in Behçet's disease, it remains to be seen if an IL-1 antibody will have an effect in other forms of noninfectious uveitis. A phase 3 clinical trial to evaluate the efficacy of [gevokizumab] in the treatment of noninfectious uveitis is in the recruitment process," Dr. Kay said.</p>
+<p>"Gevokizumab does offer the possibility of a pathophysiology-driven targeted therapy for IL-1 related uveitis, and if proven safe and effective in a phase 3 trial, this could provide a valuable option in the treatment of noninfectious intermediate uveitis, posterior uveitis, and panuveitis. Even if this drug is only shown to be effective in Behçet's disease, this could provide a useful and targeted treatment for an extremely aggressive condition, perhaps limiting broader and more toxic immunosuppression," Dr. Kay said.</p>
+<p>
+                        <bold>Other Potential Indications</bold>
+                    </p>
+<p>"As an IL-1β inhibitor, gevokizumab has potential in a very large number of indications that are driven by inflammation, such as noninfectious uveitis.... [W]e are also engaged in 2 proof-of-concept phase 2 trials using gevokizumab in patients with moderate to severe acne vulgaris and in erosive osteoarthritis of the hand, and we will initiate a third proof-of-concept trial in another indication later this year," Kurland explained.</p>
+<p>"With respect to the [noninfectious uveitis] market specifically, we estimate that there are approximately 150,000 patients in the [United States who have noninfectious uveitis]," Kurland added, noting they are not discussing the drug's pricing yet.</p>
+<p>
+                        <italic>Dr. Kay has disclosed no relevant financial relationships.</italic>
+                    </p>
+                </sec>
+            </sec>
+        </sec>
+    </body>
+    <back>
+        <ref-list>
+            <title>References</title>
+            <list>
+                <list-item>
+                    <p/>
+                </list-item>
+            </list>
+        </ref-list>
+        <ack>
+            <title>Acknowledgements</title>
+            <p/>
+        </ack>
+        <fn-group>
+            <fn fn-type="bkmtr_front">
+                <p/>
+            </fn>
+        </fn-group>
+    </back>
+</article>
